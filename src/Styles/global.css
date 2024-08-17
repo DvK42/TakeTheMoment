@@ -1,0 +1,86 @@
+@import url('./root.css');
+
+
+.bg-blue, .hover\:bg-blue:hover {
+    background-color: var(--main-blue);
+}
+
+.bg-pink, .hover\:bg-pink:hover {
+    background-color: var(--main-pink);
+}
+
+.bg-yellow, .hover\:bg-yellow:hover {
+    background-color: var(--main-yellow);
+}
+
+.bg-salmon, .hover\:bg-salmon:hover {
+    background-color: var(--main-salmon);
+}
+
+.bg-green, .hover\:bg-green:hover {
+    background-color: var(--main-green);
+}
+
+.bg-grey, .hover\:bg-grey:hover {
+    background-color: var(--main-grey);
+}
+
+.border-blue, .hover\:border-blue:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--main-blue);
+}
+
+.border-pink, .hover\:border-pink:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--main-pink);
+}
+
+.border-yellow, .hover\:border-yellow:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--main-yellow);
+}
+
+.border-salmon, .hover\:border-salmon:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--main-salmon);
+}
+
+.border-green, .hover\:border-green:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--main-green);
+}
+
+.border-grey, .hover\:border-grey:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--main-grey);
+}
+
+.text-blue, .hover\:text-blue:hover {
+    color: var(--main-blue);
+}
+
+.text-pink, .hover\:text-pink:hover {
+    color: var(--main-pink);
+}
+
+.text-yellow, .hover\:text-yellow:hover {
+    color: var(--main-yellow);
+}
+
+.text-salmon, .hover\:text-salmon:hover {
+    color: var(--main-salmon);
+}
+
+.text-green, .hover\:text-green:hover {
+    color: var(--main-green);
+}
+
+.text-grey, .hover\:text-grey:hover {
+    color: var(--main-grey);
+}
